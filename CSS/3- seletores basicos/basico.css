@@ -1,0 +1,13 @@
+.red-text {
+  color: rgb(255, 0, 0);
+}
+.big-text {
+  font-size: 70px;
+}
+#europa-text {
+  font-size: 40px;
+  color: springgreen;
+}
+li {
+  color: turquoise;
+}
